@@ -178,8 +178,7 @@ void printArray(int pData[], int dataSz) {
     printf("\n\n");
 }
 
-int main(void)
-{
+int main(void){
   clock_t start, end;
   int i;
     double cpu_time_used;
